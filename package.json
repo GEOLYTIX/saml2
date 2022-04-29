@@ -1,8 +1,8 @@
 {
-  "name": "saml2-js",
-  "version": "3.0.1",
+  "name": "@geolytix/saml2-js",
+  "version": "3.0.2",
   "description": "SAML 2.0 node helpers",
-  "author": "Clever",
+  "author": "Geolytix",
   "license": "Apache-2.0",
   "main": "index.js",
   "engines": {
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Clever/saml2.git"
+    "url": "git://github.com/GEOLYTIX/saml2.git"
   },
   "keywords": [
     "saml",
     "node"
   ],
   "bugs": {
-    "url": "https://github.com/Clever/saml2/issues"
+    "url": "https://github.com/GEOLYTIX/saml2/issues"
   },
   "devDependencies": {
     "coffee-script": "^1.12.0",
