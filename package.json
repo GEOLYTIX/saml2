@@ -1,6 +1,6 @@
 {
   "name": "@geolytix/saml2-js",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "description": "SAML 2.0 node helpers",
   "author": "Geolytix",
   "license": "Apache-2.0",
@@ -26,9 +26,9 @@
     "url": "https://github.com/GEOLYTIX/saml2/issues"
   },
   "devDependencies": {
-    "coffee-script": "^1.12.0",
+    "coffeescript": "^1.12.7",
     "mocha": "^9.2.2",
-    "nyc": "^15.0.0"
+    "nyc": "^15.1.0"
   },
   "dependencies": {
     "@xmldom/xmldom": "^0.8.2",
@@ -38,6 +38,6 @@
     "xml-crypto": "^2.0.0",
     "xml-encryption": "^2.0.0",
     "xml2js": "^0.4.0",
-    "xmlbuilder2": "^2.4.0"
+    "xmlbuilder2": "^2.4.1"
   }
 }
